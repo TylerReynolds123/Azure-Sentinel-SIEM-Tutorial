@@ -1,1 +1,1 @@
-# Azure-Sentinel-SIEM-Tutorial
+# Azure Sentinel SIEM Tutorial
