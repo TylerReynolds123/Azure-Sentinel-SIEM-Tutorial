@@ -90,7 +90,7 @@ Set up map in Sentinel: <br/>
 <br />
 <br />
 See results on the map!: <br/>
-<img src="https://imgur.com/PufZzsr.jpg" height="80%" width="80" alth="SIEM Steps"/>
+<img src="https://imgur.com/PufZzsr.jpg" height="80%" width="80%" alth="SIEM Steps"/>
  
 </p>
 
