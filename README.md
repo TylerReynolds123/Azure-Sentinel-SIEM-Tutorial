@@ -40,4 +40,51 @@ Capture logs in Microsoft Defender:  <br/>
 <br />
 <br />
 Enable gathering VM logs in Security Center:  <br/>
-<img src="https://i.imgur.com/NOATXKW.jpg" height="80%"
+<img src="https://i.imgur.com/NOATXKW.jpg" height="80%" width="80%" alt="SIEM Steps"/>
+<br />
+<br />
+Connect Log Analytics to VM:  <br/>
+<img src="https://i.imgur.com/2DFmpRS.jpg" height="80%" width="80%" alt="SIEM Steps"/>
+<br />
+<br />
+Set up Azure Sentinel:  <br/>
+<img src="https://i.imgur.com/iMpX8Ib.jpg" height="80%" width="80%" alt="SIEM Steps"/>
+<br />
+<br />
+Log into VM with Remote Desktop:  <br/>
+<img src="https://i.imgur.com/eoO2gzw.jpg" height="80%" width="80%" alt="SIEM Steps"/>
+<br />
+<br />
+Observe Event Viewer Logs in VM: <br/>
+<img src="https://i.imgur.com/6eneOBo.jpg" height="80%" width="80%" alt="SIEM Steps"/>
+<br />
+<br />
+Turn off Windows Firewall on VM: <br/>
+<img src="https://i.imgur.com/zG1hMVa.jpg" height="80%" width="80%" alt="SIEM Steps"/>
+<br />
+<br />
+Get Geolocation.io API key: <br/>
+<img src="https://i.imgur.com/J4zb6dy.jpg" height="80%" width="80%" alt="SIEM Steps"/>
+<br />
+<br />
+Run Script to get Geo data from attackers: <br/>
+<img src="https://i.imgur.com/490RAvF.jpg" height="80%" width="80%" alt="SIEM Steps"/>
+<br />
+<br />
+Create Custom Log in L.A.W.: <br/>
+<img src="https://i.imgur.com/eJvEsC6.jpg" height="80%" width="80%" alt="SIEM Steps"/>
+<br />
+<br />
+Extract Fields: <br/>
+<img src="https://i.imgur.com/hz7u63w.jpg" height="80%" width="80%" alt="SIEM Steps"/>
+<br />
+<br />
+Set up map in Sentinel: <br/>
+<img src="https://i.imgur.com/xbi9M8s.jpg" height="80%" width="80%" alt="SIEM Steps"/>
+<br />
+<br />
+See results on the map!: <br/>
+<img src="https://i.imgur.com/PufZzsr.jpg" height="80%" width="80%" alt="SIEM Steps"/>
+</p>
+
+
