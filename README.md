@@ -5,10 +5,14 @@ In this project, I set up Microsoft Sentinel (SIEM) and connect it to a live vir
 <br />
 
 <h2>Languages and Utilities Used</h2>
+
+
 - <b>PowerShell</b>
 - <b>Microsoft Sentinel</b>
 
 <h2>Environments Used </h2>
+
+
 - <b>Windows 10</b> 
 - <b>Virtual Machine</b>
 
